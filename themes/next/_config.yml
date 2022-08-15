@@ -159,9 +159,9 @@ baidu_push: false
 menu:
 #  home: / || fa fa-home
   #home: / || home
-  #tags: /tags/ || tags
-  categories: /categories/ || th
   archives: /archives/ || archive
+  tags: /tags/ || tags
+  categories: /categories/ || th
   about: /about/ || user
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
